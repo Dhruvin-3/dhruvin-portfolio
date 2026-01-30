@@ -1,0 +1,16 @@
+/* Portfolio Specific Styles */
+html {
+    scroll-behavior: smooth;
+}
+
+.App {
+    overflow-x: hidden;
+}
+
+/* Line clamp utility for project cards */
+.line-clamp-3 {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
