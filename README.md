@@ -13,4 +13,6 @@ bun dev
 ```
 
 After that for linting error you can run 
-npm run deb
+```
+npm run dev
+```
