@@ -11,8 +11,3 @@ pnpm dev
 # or
 bun dev
 ```
-
-After that for linting error you can run 
-```
-npm run dev
-```
